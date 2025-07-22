@@ -22,11 +22,11 @@ This repository gathers all my practical projects and assignments for the Databa
 
 - Complex procedures for:
 
--- Version control (with rollback/forwarding of database schema)
+  - Version control (with rollback/forwarding of database schema)
 
--- Constraint manipulation (adding/dropping keys dynamically)
+  - Constraint manipulation (adding/dropping keys dynamically)
 
--- Automated schema migrations using custom procedures
+  - Automated schema migrations using custom procedures
 
 - Indexing strategies and execution plan analysis on random data
 
